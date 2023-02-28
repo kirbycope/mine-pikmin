@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Mine Pikmin",
+		"description": "Mine Pikmin Behavior Pack",
+		"uuid": "804cecb3-ea00-efd7-42c3-1b81c038bd49",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Kirbycope"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.1.1"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "7b2fef3f-df9e-1b56-5b9f-0e02ce0a5982",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "a25472c8-1198-3923-f1d2-0de089c78fda",
+			"version": [1, 0, 0]
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"entity_sounds": {
+		"entities": {
+			"kirbycope:mine_pikmin": {
+				"events": {
+					"death": "mob.mine_pikmin.hurt"
+				},
+				"pitch": [0.8, 1.2],
+				"volume": 1
+			}
+		}
+	}
+}

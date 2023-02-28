@@ -1,0 +1,33 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "kirbycope:mine_pikmin",
+			"animations": {
+				"move": "animation.mine_pikmin.move"
+			},
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/mine_pikmin"
+			},
+			"geometry": {
+				"default": "geometry.mine_pikmin"
+			},
+			"render_controllers": [
+				"controller.render.default"
+			],
+			"scripts": {
+				"animate": [
+					{
+						"move": "query.modified_move_speed"
+					}
+				]
+			},
+			"spawn_egg": {
+				"texture": "mine_pikmin_spawn_egg"
+			}
+		}
+	}
+}
