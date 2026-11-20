@@ -2,9 +2,9 @@
 	"format_version": 2,
 	"header": {
 		"name": "Mine Pikmin",
-		"description": "Mine Pikmin Resource Pack",
+		"description": "Mine Pikmin Resource Pack 1.0.1",
 		"uuid": "a25472c8-1198-3923-f1d2-0de089c78fda",
-		"version": [1, 0, 0],
+		"version": [1, 0, 1],
 		"min_engine_version": [1, 16, 0]
 	},
 	"metadata": {
@@ -18,7 +18,7 @@
 			"description": "Mine Pikmin",
 			"type": "resources",
 			"uuid": "9ab06424-ef82-e3d2-4d81-96bd55dd70e2",
-			"version": [1, 0, 0]
+			"version": [1, 0, 1]
 		}
 	]
 }
